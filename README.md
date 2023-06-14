@@ -75,6 +75,6 @@ public class program
 ```
 
 ## Output:
-![output]()
+![output](https://github.com/jhansi21005096/File/blob/main/output.png)
 ## Result:
 Thus a C# program to store the student details in file using structure concept is implemented successfully.
